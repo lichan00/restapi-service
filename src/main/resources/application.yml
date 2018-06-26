@@ -1,0 +1,3 @@
+#restapi
+restapi:
+  url: 'https://data.gov.sg/realtime-api/environment/pm25?start=2018-06-11T07:20:16'
